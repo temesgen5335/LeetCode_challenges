@@ -29,7 +29,7 @@ nums2.length == n
 -106 <= nums1[i], nums2[i] <= 106
 
 
-*** Solution ***
+
 """
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
