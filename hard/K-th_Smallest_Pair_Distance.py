@@ -37,7 +37,7 @@ n == nums.length
 0 <= nums[i] <= 106
 1 <= k <= n * (n - 1) / 2
 
-
+*** Solution ***
 """
 def countPairs(nums, maxDist):
     """ Count pairs with distance <= maxDist using two-pointer technique """
