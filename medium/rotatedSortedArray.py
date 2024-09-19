@@ -1,13 +1,5 @@
 """
-
-
-Code
-
-
-Testcase
-Test Result
-Test Result
-33. Search in Rotated Sorted Array
+Search in Rotated Sorted Array
 Medium
 Topics
 Companies
