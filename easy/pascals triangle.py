@@ -10,8 +10,6 @@ Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
 
- 
-
 Example 1:
 
 Input: rowIndex = 3
@@ -29,6 +27,8 @@ Output: [1,1]
 Constraints:
 
 0 <= rowIndex <= 33
+
+* Solution ***
 """
 
 def getRow(rowIndex):
