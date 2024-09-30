@@ -6,7 +6,6 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 The overall run time complexity should be O(log (m+n)).
 
  
-
 Example 1:
 
 Input: nums1 = [1,3], nums2 = [2]
@@ -28,8 +27,7 @@ nums2.length == n
 1 <= m + n <= 2000
 -106 <= nums1[i], nums2[i] <= 106
 
-
-
+*** Solution ***
 """
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
