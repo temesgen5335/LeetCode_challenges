@@ -4,7 +4,6 @@ Given two strings ransomNote and magazine, return true if ransomNote can be cons
 
 Each letter in magazine can only be used once in ransomNote.
 
- 
 
 Example 1:
 
@@ -25,6 +24,7 @@ Constraints:
 1 <= ransomNote.length, magazine.length <= 105
 ransomNote and magazine consist of lowercase English letters.
 
+*** Solution ***
 """
 
 
